@@ -38,5 +38,3 @@ ax.set_title("PCA Projection: First Two Components")
 ax.set_xlabel("Principal Component 1")
 ax.set_ylabel("Principal Component 2")
 st.pyplot(fig)
-
-pip install streamlit
