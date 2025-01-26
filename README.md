@@ -20,7 +20,7 @@ A sleek and interactive dashboard built with **Streamlit**, enabling users to an
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/nike-shoe-sales.git
+   git clone https://github.com/suhaneec/Nike-shoe-sales
    cd nike-shoe-sales
 
 
