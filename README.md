@@ -1,6 +1,3 @@
-# Creating a README.txt file with the provided content
-
-readme_content = """
 # 🎉 **Nike Shoe Sales Dashboard**
 
 🌐 **Live App**: [Explore the Dashboard](https://nike-shoe-sales.streamlit.app/)
