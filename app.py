@@ -8,14 +8,14 @@ def main():
     st.set_page_config(page_title="Nike Shoes Sales Dashboard", page_icon=":athletic_shoe:", layout="wide")
 
     # Load Data
-    df = pd.read_csv(r"C:\Users\HP\Desktop\nike shoe sales\nike_shoes_sales_cleaned.csv")
+    df = pd.read_csv("nike_shoes_sales_cleaned.csv")
 
     # Clean Column Names
     df.columns = df.columns.str.strip()
 
     # Sidebar Layout
     with st.sidebar:
-        st.image("C:/Users/HP/Desktop/nike shoe sales/nike logo.jpg", width=780)
+        st.image("nike logo.jpg", width=780)
         st.header("Filter Options")
 
         # Sale Price Slider
